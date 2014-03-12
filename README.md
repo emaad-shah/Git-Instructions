@@ -26,6 +26,9 @@ git remote rm origin
 Add Orgin:
 git remote add origin https://github.com/emaad-shah/repo.git
 
+Set Orgin:
+git remote set-url origin "https://..." 
+
 Push Files to Github:
 git push -u origin master
 
