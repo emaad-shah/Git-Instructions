@@ -15,6 +15,11 @@ git commit -m "Added Everything"
 Remove File:
 git rm --cached <file>
 
+or
+
+git rm <file>
+git commit -m "Removing a file"
+
 Remove Orgin:
 git remote rm origin
 
