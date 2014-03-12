@@ -34,3 +34,6 @@ git push -u origin master
 
 Pull Files from Github:
 git pull -u origin master
+
+Check current Origin
+git remote -v
