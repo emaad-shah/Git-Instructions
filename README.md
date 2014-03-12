@@ -8,9 +8,12 @@ Add File:
 git add README.md
 git commit -m "first commit"
 
-Add everything
+Add everything:
 git add *
 git commit -m "Added Everything"
+
+Remove File:
+git rm --cached <file>
 
 Remove Orgin:
 git remote rm origin
