@@ -1,4 +1,4 @@
-Git-Instructions
+Other
 ================
 
 Initialize Git: 
